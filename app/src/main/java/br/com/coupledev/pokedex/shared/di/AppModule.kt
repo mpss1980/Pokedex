@@ -1,4 +1,4 @@
-package br.com.coupledev.pokedex.di
+package br.com.coupledev.pokedex.shared.di
 
 import dagger.Module
 import dagger.hilt.InstallIn
